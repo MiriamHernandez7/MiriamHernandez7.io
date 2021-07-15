@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Bienbenido a 7 World
 
 You can use the [editor on GitHub](https://github.com/MiriamHernandez7/MiriamHernandez7.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
